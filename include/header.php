@@ -10,21 +10,18 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="./" class="nav-item nav-link active">Home</a>
-                <a href="./e-books" class="nav-item nav-link">E-Books</a>
-                <a href="service.html" class="nav-item nav-link">Archives</a>
-                <a href="service.html" class="nav-item nav-link">Repositories</a>
+                <a href="./services" class="nav-item nav-link active">Services</a>
 
-                <!-- <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                <a href="./e-books" class="nav-item nav-link">Reference Services</a>
+                <a href="./publications" class="nav-item nav-link">Publications</a>
+
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Training</a>
                     <div class="dropdown-menu fade-up m-0">
-                        <a href="price.html" class="dropdown-item">Pricing Plan</a>
-                        <a href="feature.html" class="dropdown-item">Features</a>
-                        <a href="quote.html" class="dropdown-item">Free Quote</a>
-                        <a href="team.html" class="dropdown-item">Our Team</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        <a href="404.html" class="dropdown-item">404 Page</a>
-                    </div>
-                </div> -->
+                        <a href="./training#plagiarism-check" class="dropdown-item">Plagism check </a>
+                        <a href="./training#Referencing" class="dropdown-item">Refferencing</a>
+                     </div>
+                </div>
                 <a href="./contact-us" class="nav-item nav-link">Contact</a>
             </div>
             <!-- <a href="about.html" class="nav-item nav-link">About</a>

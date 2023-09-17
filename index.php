@@ -248,8 +248,8 @@ Jane is a remarkable individual with a multifaceted background in the world of l
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                <h6 class="text-secondary text-uppercase">Books For Sale</h6>
-                <h1 class="mb-5">Luo Books</h1>
+                <h6 class="text-secondary text-uppercase">Latest Publications</h6>
+                <h1 class="mb-5">Latest Publications</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -327,7 +327,7 @@ Jane is a remarkable individual with a multifaceted background in the world of l
 
 
     <!-- Testimonial Start -->
-    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="text-center">
                 <h6 class="text-secondary text-uppercase">Testimonial</h6>
@@ -396,7 +396,7 @@ Jane is a remarkable individual with a multifaceted background in the world of l
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Testimonial End -->
 
 
